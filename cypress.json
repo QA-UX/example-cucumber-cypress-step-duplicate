@@ -1,0 +1,7 @@
+{
+  "projectId": "rchqse",
+  "testFiles": "**/*.feature",
+  "videoUploadOnPasses": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768
+}
