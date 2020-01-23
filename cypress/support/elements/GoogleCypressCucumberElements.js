@@ -1,4 +1,4 @@
-class GoogleElements {
+class GoogleCypressCucumberElements {
   inputTexto = () => {
     return ".gLFyf";
   };
@@ -9,4 +9,4 @@ class GoogleElements {
   
 }
 
-export default GoogleElements;
+export default GoogleCypressCucumberElements;
