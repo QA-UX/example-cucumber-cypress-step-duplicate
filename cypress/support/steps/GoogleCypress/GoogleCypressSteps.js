@@ -1,6 +1,6 @@
 /// <reference types="Cypress"/>
 /* global Cypress, cy, expect, Given, When, Then */
-import GoogleCypressObjects from '../pageObjects/GoogleCypressObjects';
+import GoogleCypressObjects from '../../pageObjects/GoogleCypress/GoogleCypressObjects';
 
 const googleCypressObjects = new GoogleCypressObjects();
 

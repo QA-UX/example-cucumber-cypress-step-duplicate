@@ -1,6 +1,6 @@
 /// <reference types="Cypress"/>
 /* global Cypress, cy, expect, Given, When, Then */
-import GoogleCypressCucumberObjects from '../pageObjects/GoogleCypressCucumberObjects';
+import GoogleCypressCucumberObjects from '../../pageObjects/GoogleCypressCucumber/GoogleCypressCucumberObjects';
 
 const googleCypressCucumberObjects = new GoogleCypressCucumberObjects();
 
