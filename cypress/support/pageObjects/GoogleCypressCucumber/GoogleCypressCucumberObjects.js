@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-import GoogleCypressCucumberElements from '../elements/GoogleCypressCucumberElements';
+import GoogleCypressCucumberElements from '../../elements/GoogleCypressCucumber/GoogleCypressCucumberElements';
 
 const googleCypressCucumberElements = new GoogleCypressCucumberElements();
 

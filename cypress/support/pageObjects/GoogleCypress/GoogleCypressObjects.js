@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-import GoogleCypressElements from '../elements/GoogleCypressElements';
+import GoogleCypressElements from '../../elements/GoogleCypress/GoogleCypressElements';
 
 const googleCypressElements = new GoogleCypressElements();
 
